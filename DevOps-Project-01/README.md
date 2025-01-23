@@ -375,7 +375,7 @@ Golden AMIs will be created for the different tiers (Nginx, Tomcat, Maven) of th
 
 ---
 
-## **Author by:**
+## ***Author by:***
 
 ![](https://imgur.com/2j6Aoyl.png)
 
